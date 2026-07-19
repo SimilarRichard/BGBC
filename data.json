@@ -1,0 +1,479 @@
+{
+  "members": [
+    "Bone",
+    "Sophie",
+    "Smooth",
+    "Bubba",
+    "Haus",
+    "Mac",
+    "Beeks",
+    "Skizza",
+    "Moshi"
+  ],
+  "scoreboard": [
+    {
+      "book": "The Splendid and the Vile",
+      "author": "Erik Larson",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Splendid_and_the_Vile_Book_Cover.jpg",
+      "pitcher": "Moshi",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "nonfiction",
+      "quote": ""
+    },
+    {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": ""
+    },
+    {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": ""
+    },
+    {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": ""
+    },
+    {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": ""
+    }
+  ],
+  "categories": [
+    {
+      "title": "The Rereadability Scale",
+      "tag": "dry",
+      "desc": "Are you reading this again in five years or is it going straight in a box for the next move. 5 = actual reread, 1 = you'd rather reread the terms and conditions on a timeshare.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "MVP",
+      "tag": "roast",
+      "desc": "Best character and worst character, back to back. “The protagonist” isn't an answer for best, that's the guy who orders the same thing at every restaurant and calls it loyalty. Worst is whoever should've been written out in chapter two and instead got a whole arc nobody asked for.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Poor Man's ___",
+      "tag": "ref",
+      "desc": "What book or author is this quietly jacking. Extra credit for naming the exact book the author had open in another tab.",
+      "genres": [
+        "thriller",
+        "fantasy",
+        "scifi",
+        "literary"
+      ]
+    },
+    {
+      "title": "The PVK Award",
+      "tag": "ref",
+      "desc": "The single most inexplicable choice in the book. You cannot nominate yourself — somebody else has to back you up independently or it doesn't count.",
+      "genres": [
+        "thriller",
+        "fantasy",
+        "scifi",
+        "literary"
+      ]
+    },
+    {
+      "title": "Casting Call",
+      "tag": "ref",
+      "desc": "Real actors only. “I don't watch movies” is not a pass, guess anyway and defend it.",
+      "genres": [
+        "thriller",
+        "fantasy",
+        "scifi",
+        "literary"
+      ]
+    },
+    {
+      "title": "Group Chat Test",
+      "tag": "dry",
+      "desc": "Was there a line or scene worth screenshotting and sending unprompted. If nobody sent anything, ask why the book couldn't clear that bar.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "One Change",
+      "tag": "dry",
+      "desc": "Rewrite one thing. Ending, character's fate, whatever. Defend it like the author is sitting across the table and can't leave.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Airport Test",
+      "tag": "dry",
+      "desc": "Would you have actually bought this at Hudson News for a delay, or does it only survive because someone assigned it to you.",
+      "genres": [
+        "thriller"
+      ]
+    },
+    {
+      "title": "The Sunk Cost Award",
+      "tag": "roast",
+      "desc": "For whoever kept reading a book he clearly hated out of pure stubbornness, then finished it at 11pm the night before instead of admitting defeat.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Bar Fight Roster",
+      "tag": "roast",
+      "desc": "One character you want next to you when things go sideways, one you'd leave behind without a second thought. Every book has both.",
+      "genres": [
+        "thriller",
+        "fantasy",
+        "scifi",
+        "literary"
+      ]
+    },
+    {
+      "title": "The “I Read This in College” Callback",
+      "tag": "confession",
+      "desc": "Would 22-year-old you have gotten anything from this, or does it only land now because you've got real deadlines, real debt, and none of the patience you used to fake having.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Divorce Test",
+      "tag": "confession",
+      "desc": "Is there a decision in this book you've personally considered making in real life. Confess or lie, either way it's a bit.",
+      "genres": [
+        "literary",
+        "thriller"
+      ]
+    },
+    {
+      "title": "Hangxiety Rating",
+      "tag": "confession",
+      "desc": "How wrecked did this leave you, same scale you already use for hangovers instead of feelings. 5 = unprompted 1am text, 1 = forgotten by breakfast.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Hot Take Insurance",
+      "tag": "confession",
+      "desc": "Before discussion, everyone secretly predicts how the group reacts to the book. Wrong guesses owe a dollar.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Most Likely to Ruin a Toast",
+      "tag": "roast",
+      "desc": "Which character, if he showed up drunk to your wedding, gives the toast that ends the reception early.",
+      "genres": [
+        "literary",
+        "thriller",
+        "fantasy",
+        "scifi"
+      ]
+    },
+    {
+      "title": "The Third Act Problem",
+      "tag": "ref",
+      "desc": "Every movie falls apart in the third act. Does this book. Where exactly — “the ending” is not an answer.",
+      "genres": [
+        "thriller",
+        "fantasy",
+        "scifi",
+        "literary"
+      ]
+    },
+    {
+      "title": "Oscar Bait or Actually Good",
+      "tag": "ref",
+      "desc": "Is this book genuinely great or just dressed up to look important. Be honest about which one you fell for.",
+      "genres": [
+        "literary",
+        "nonfiction"
+      ]
+    },
+    {
+      "title": "The Studio Note",
+      "tag": "ref",
+      "desc": "What would a nervous studio exec have demanded cut or changed to sell better, and would that have improved or ruined it.",
+      "genres": [
+        "thriller",
+        "fantasy",
+        "scifi"
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes Split",
+      "tag": "ref",
+      "desc": "Critics loved it, nobody actually enjoyed it, or the reverse. Where does this book land and why is the gap there.",
+      "genres": [
+        "literary",
+        "nonfiction"
+      ]
+    },
+    {
+      "title": "Sequel Nobody Asked For",
+      "tag": "ref",
+      "desc": "Pitch the worst possible sequel, the one that exists purely to cash in. Bonus if it's more entertaining than the original.",
+      "genres": [
+        "thriller",
+        "fantasy",
+        "scifi"
+      ]
+    },
+    {
+      "title": "The Alibi",
+      "tag": "confession",
+      "desc": "You didn't read it. Give the one detail you'd drop to convince the room you did. If it works, that's an indictment of the book.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Villain's Lawyer",
+      "tag": "roast",
+      "desc": "Defend the antagonist like you're being paid by the hour. Build an actual case.",
+      "genres": [
+        "thriller",
+        "fantasy",
+        "scifi"
+      ]
+    },
+    {
+      "title": "True Crime Podcast Test",
+      "tag": "ref",
+      "desc": "Could this plot be a two-part true crime podcast. Pitch the episode title and the ad read after the worst cliffhanger.",
+      "genres": [
+        "nonfiction",
+        "thriller"
+      ]
+    },
+    {
+      "title": "The Roast",
+      "tag": "roast",
+      "desc": "Two minutes, one guy, straight roast of the author's choices. No compliments allowed, not even backhanded ones.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Worst Seatmate",
+      "tag": "roast",
+      "desc": "Which character would be the most insufferable person to get stuck next to on a four-hour flight with no headphones.",
+      "genres": [
+        "literary",
+        "thriller",
+        "fantasy",
+        "scifi"
+      ]
+    },
+    {
+      "title": "The One-Star Review",
+      "tag": "roast",
+      "desc": "Write the pettiest possible one-star review this book absolutely has sitting on a retailer site somewhere.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Wikipedia Test",
+      "tag": "dry",
+      "desc": "Be honest, would the plot summary have done the same job as the actual book.",
+      "genres": [
+        "nonfiction"
+      ]
+    },
+    {
+      "title": "Would This Get Made Today",
+      "tag": "ref",
+      "desc": "Could this get published or greenlit right now, or is it too much a product of when it came out.",
+      "genres": [
+        "literary",
+        "nonfiction"
+      ]
+    },
+    {
+      "title": "Hall of Fame Case",
+      "tag": "sports",
+      "desc": "Build the case for first-ballot induction into this group's all-time list, or admit it's compiling stats nobody outside this room will remember.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Trade Value",
+      "tag": "sports",
+      "desc": "If you had to trade this book to a rival book club for one of their picks, what do you get back, and who got fleeced.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Bust Award",
+      "tag": "sports",
+      "desc": "Every book has one, the character or plotline hyped hardest in the marketing that never shows up once the games start.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Waiver Wire Pickup",
+      "tag": "sports",
+      "desc": "The minor character nobody drafted who quietly ends up carrying the book. Give him his flowers, nobody else will.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Personal Foul",
+      "tag": "sports",
+      "desc": "The single moment the author did something cheap enough to draw a flag — a contrived twist, an unearned death, a cop-out ending.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Overtime Rule",
+      "tag": "sports",
+      "desc": "Does this book earn its extra pages, or should it have ended in regulation instead of dragging the game out.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Comeback Player of the Year",
+      "tag": "sports",
+      "desc": "A character written off early who completely turns it around by the end. If nobody qualifies, say that too.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Home Field Advantage",
+      "tag": "sports",
+      "desc": "Did the setting do the heavy lifting here. Move the book somewhere else entirely and see if it survives the trade.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Trash Talk",
+      "tag": "sports",
+      "desc": "Read your favorite insult or put-down from the book like you're chirping the other team. Bonus if you can say it with a straight face.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Injury Report",
+      "tag": "sports",
+      "desc": "Which character got hurt, killed, or written out, and whether the book got better or worse the moment they left the lineup.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Upset",
+      "tag": "sports",
+      "desc": "The twist or turn nobody in this room saw coming. Bracket-buster energy or nothing.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Nightstand Test",
+      "tag": "confession",
+      "desc": "Be honest about how this actually got read — cover to cover, audiobook at 1.5x on the commute, or crammed the last hundred pages the night before like it's due tomorrow. No judgment. Immediate judgment.",
+      "genres": [
+        "universal"
+      ]
+    }
+  ],
+  "pitches": [],
+  "archive": [],
+  "meeting": {
+    "date": "2026-08-01",
+    "time": "12:00",
+    "frequency": "Monthly",
+    "venue": "Mast Landing Westbrook",
+    "address": "920 Main St, Westbrook, ME 04092"
+  },
+  "meetingDraft": {
+    "attendees": [
+      "Bone",
+      "Sophie",
+      "Smooth",
+      "Bubba",
+      "Haus",
+      "Mac",
+      "Beeks",
+      "Skizza",
+      "Moshi"
+    ],
+    "responses": [
+      {
+        "category": "The Sunk Cost Award",
+        "answer": "sdgfsadfs"
+      },
+      {
+        "category": "The “I Read This in College” Callback",
+        "answer": "asdfasdf"
+      },
+      {
+        "category": "Hot Take Insurance",
+        "answer": "asdfasdf"
+      },
+      {
+        "category": "Hangxiety Rating",
+        "answer": "asdfasd"
+      },
+      {
+        "category": "Oscar Bait or Actually Good",
+        "answer": "asdfasdf"
+      },
+      {
+        "category": "Rotten Tomatoes Split",
+        "answer": "fgtttet"
+      }
+    ]
+  },
+  "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
+  "lastPublished": "2026-07-19T16:15:08.165Z"
+}
