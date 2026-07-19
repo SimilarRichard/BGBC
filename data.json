@@ -23,6 +23,19 @@
       "genre": "nonfiction",
       "quote": "",
       "scores": {}
+    },
+    {
+      "book": "Jurrasic Park",
+      "author": "Michael Crichton",
+      "cover": "",
+      "pitcher": "Bone",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "scifi",
+      "quote": "",
+      "scores": {}
     }
   ],
   "categories": [
@@ -379,7 +392,14 @@
       ]
     }
   ],
-  "pitches": [],
+  "pitches": [
+    {
+      "title": "Jurrasic Park",
+      "author": "Michael Crichton",
+      "pitcher": "Bone",
+      "votes": "6"
+    }
+  ],
   "archive": [],
   "meeting": {
     "date": "2026-08-01",
@@ -393,5 +413,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T17:07:54.177Z"
+  "lastPublished": "2026-07-19T17:09:08.460Z"
 }
