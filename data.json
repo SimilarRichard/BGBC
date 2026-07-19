@@ -17,11 +17,11 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Splendid_and_the_Vile_Book_Cover.jpg",
       "pitcher": "Moshi",
       "avg": "5.1",
-      "mvp": "Churchill",
-      "lvp": "Chamberlain",
-      "cage": "Hitler",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
       "genre": "nonfiction",
-      "quote": "Fuck Yall",
+      "quote": "",
       "scores": {
         "Bone": "4",
         "Sophie": "4",
@@ -442,7 +442,22 @@
     }
   ],
   "pitches": [],
-  "archive": [],
+  "archive": [
+    {
+      "book": "The Splendid and the Vile",
+      "author": "Erik Larson",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Splendid_and_the_Vile_Book_Cover.jpg",
+      "genre": "nonfiction",
+      "pitcher": "Moshi",
+      "avg": "5.1",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "quote": "",
+      "attendees": [],
+      "responses": []
+    }
+  ],
   "meeting": {
     "date": "2026-08-01",
     "time": "12:00",
@@ -455,5 +470,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T17:01:22.092Z"
+  "lastPublished": "2026-07-19T17:04:29.528Z"
 }
