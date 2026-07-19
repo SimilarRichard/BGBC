@@ -35,15 +35,15 @@
       }
     },
     {
-      "book": "Jurassic Park",
-      "author": "Michael Crichton",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
-      "pitcher": "Bone",
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
       "avg": "",
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "thriller",
+      "genre": "",
       "quote": "",
       "scores": {}
     },
@@ -442,71 +442,7 @@
     }
   ],
   "pitches": [],
-  "archive": [
-    {
-      "book": "The Splendid and the Vile",
-      "author": "Erik Larson",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Splendid_and_the_Vile_Book_Cover.jpg",
-      "genre": "nonfiction",
-      "pitcher": "Moshi",
-      "avg": "5.1",
-      "mvp": "Churchill",
-      "lvp": "Chamberlain",
-      "cage": "Hitler",
-      "quote": "Fuck Yall",
-      "attendees": [
-        "Bone",
-        "Sophie",
-        "Smooth",
-        "Bubba",
-        "Haus",
-        "Mac",
-        "Beeks",
-        "Skizza",
-        "Moshi"
-      ],
-      "responses": [
-        {
-          "category": "The Sunk Cost Award",
-          "answer": "sdgfsadfs"
-        },
-        {
-          "category": "The “I Read This in College” Callback",
-          "answer": "asdfasdf"
-        },
-        {
-          "category": "Hot Take Insurance",
-          "answer": "asdfasdf"
-        },
-        {
-          "category": "Hangxiety Rating",
-          "answer": "asdfasd"
-        },
-        {
-          "category": "Oscar Bait or Actually Good",
-          "answer": "asdfasdf"
-        },
-        {
-          "category": "Rotten Tomatoes Split",
-          "answer": "fgtttet"
-        }
-      ]
-    },
-    {
-      "book": "Jurassic Park",
-      "author": "Michael Crichton",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
-      "genre": "thriller",
-      "pitcher": "Bone",
-      "avg": "",
-      "mvp": "",
-      "lvp": "",
-      "cage": "",
-      "quote": "",
-      "attendees": [],
-      "responses": []
-    }
-  ],
+  "archive": [],
   "meeting": {
     "date": "2026-08-01",
     "time": "12:00",
@@ -519,5 +455,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T16:59:18.538Z"
+  "lastPublished": "2026-07-19T17:01:22.092Z"
 }
