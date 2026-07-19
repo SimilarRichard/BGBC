@@ -12,77 +12,15 @@
   ],
   "scoreboard": [
     {
-      "book": "",
-      "author": "",
-      "cover": "",
-      "pitcher": "",
-      "avg": "1",
-      "mvp": "hurchill",
-      "lvp": "Chamberlain",
-      "cage": "Hitler",
-      "genre": "",
-      "quote": "Yall",
-      "scores": {
-        "Bone": "4",
-        "Sophie": "4",
-        "Smooth": "2",
-        "Bubba": "10",
-        "Haus": "10",
-        "Mac": "1",
-        "Beeks": "2",
-        "Skizza": "6",
-        "Moshi": "7"
-      }
-    },
-    {
-      "book": "",
-      "author": "",
-      "cover": "",
-      "pitcher": "",
+      "book": "The Splendid and the Vile",
+      "author": "Erik Larson",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Splendid_and_the_Vile_Book_Cover.jpg",
+      "pitcher": "Moshi",
       "avg": "",
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "",
-      "quote": "",
-      "scores": {}
-    },
-    {
-      "book": "",
-      "author": "",
-      "cover": "",
-      "pitcher": "",
-      "avg": "",
-      "mvp": "",
-      "lvp": "",
-      "cage": "",
-      "genre": "",
-      "quote": "",
-      "scores": {}
-    },
-    {
-      "book": "",
-      "author": "",
-      "cover": "",
-      "pitcher": "",
-      "avg": "",
-      "mvp": "",
-      "lvp": "",
-      "cage": "",
-      "genre": "",
-      "quote": "",
-      "scores": {}
-    },
-    {
-      "book": "",
-      "author": "",
-      "cover": "",
-      "pitcher": "",
-      "avg": "",
-      "mvp": "",
-      "lvp": "",
-      "cage": "",
-      "genre": "",
+      "genre": "nonfiction",
       "quote": "",
       "scores": {}
     }
@@ -455,5 +393,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T17:07:05.754Z"
+  "lastPublished": "2026-07-19T17:07:54.177Z"
 }
