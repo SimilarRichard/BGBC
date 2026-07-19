@@ -35,16 +35,17 @@
       }
     },
     {
-      "book": "",
-      "author": "",
-      "cover": "",
-      "pitcher": "",
+      "book": "Jurassic Park",
+      "author": "Michael Crichton",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+      "pitcher": "Bone",
       "avg": "",
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "",
-      "quote": ""
+      "genre": "thriller",
+      "quote": "",
+      "scores": {}
     },
     {
       "book": "",
@@ -56,7 +57,8 @@
       "lvp": "",
       "cage": "",
       "genre": "",
-      "quote": ""
+      "quote": "",
+      "scores": {}
     },
     {
       "book": "",
@@ -68,7 +70,8 @@
       "lvp": "",
       "cage": "",
       "genre": "",
-      "quote": ""
+      "quote": "",
+      "scores": {}
     },
     {
       "book": "",
@@ -80,7 +83,8 @@
       "lvp": "",
       "cage": "",
       "genre": "",
-      "quote": ""
+      "quote": "",
+      "scores": {}
     }
   ],
   "categories": [
@@ -501,5 +505,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T16:54:45.391Z"
+  "lastPublished": "2026-07-19T16:57:17.725Z"
 }
