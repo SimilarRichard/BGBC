@@ -27,7 +27,7 @@
     {
       "book": "Jurrasic Park",
       "author": "Michael Crichton",
-      "cover": "",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
       "pitcher": "Bone",
       "avg": "",
       "mvp": "",
@@ -413,5 +413,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T17:09:08.460Z"
+  "lastPublished": "2026-07-19T17:10:18.387Z"
 }
