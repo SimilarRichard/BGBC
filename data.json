@@ -17,7 +17,7 @@
       "cover": "",
       "pitcher": "",
       "avg": "1",
-      "mvp": "Churchill",
+      "mvp": "hurchill",
       "lvp": "Chamberlain",
       "cage": "Hitler",
       "genre": "",
@@ -455,5 +455,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T17:05:10.681Z"
+  "lastPublished": "2026-07-19T17:07:05.754Z"
 }
