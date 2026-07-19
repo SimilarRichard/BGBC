@@ -21,7 +21,8 @@
       "lvp": "",
       "cage": "",
       "genre": "nonfiction",
-      "quote": ""
+      "quote": "",
+      "scores": {}
     },
     {
       "book": "",
@@ -475,5 +476,5 @@
     ]
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T16:15:08.165Z"
+  "lastPublished": "2026-07-19T16:52:25.126Z"
 }
