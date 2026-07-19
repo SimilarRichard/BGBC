@@ -379,14 +379,7 @@
       ]
     }
   ],
-  "pitches": [
-    {
-      "title": "Jurrasic Park",
-      "author": "Michael Crichton",
-      "pitcher": "Bone",
-      "votes": "6"
-    }
-  ],
+  "pitches": [],
   "archive": [],
   "meeting": {
     "date": "2026-08-01",
@@ -400,5 +393,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T17:11:14.598Z"
+  "lastPublished": "2026-07-19T17:11:21.519Z"
 }
