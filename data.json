@@ -491,6 +491,20 @@
           "answer": "fgtttet"
         }
       ]
+    },
+    {
+      "book": "Jurassic Park",
+      "author": "Michael Crichton",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+      "genre": "thriller",
+      "pitcher": "Bone",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "quote": "",
+      "attendees": [],
+      "responses": []
     }
   ],
   "meeting": {
@@ -505,5 +519,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T16:57:17.725Z"
+  "lastPublished": "2026-07-19T16:59:06.075Z"
 }
