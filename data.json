@@ -16,13 +16,23 @@
       "author": "Erik Larson",
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Splendid_and_the_Vile_Book_Cover.jpg",
       "pitcher": "Moshi",
-      "avg": "",
-      "mvp": "",
-      "lvp": "",
-      "cage": "",
+      "avg": "5.1",
+      "mvp": "Churchill",
+      "lvp": "Chamberlain",
+      "cage": "Hitler",
       "genre": "nonfiction",
-      "quote": "",
-      "scores": {}
+      "quote": "Fuck Yall",
+      "scores": {
+        "Bone": "4",
+        "Sophie": "4",
+        "Smooth": "2",
+        "Bubba": "10",
+        "Haus": "10",
+        "Mac": "1",
+        "Beeks": "2",
+        "Skizza": "6",
+        "Moshi": "7"
+      }
     },
     {
       "book": "",
@@ -428,7 +438,57 @@
     }
   ],
   "pitches": [],
-  "archive": [],
+  "archive": [
+    {
+      "book": "The Splendid and the Vile",
+      "author": "Erik Larson",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Splendid_and_the_Vile_Book_Cover.jpg",
+      "genre": "nonfiction",
+      "pitcher": "Moshi",
+      "avg": "5.1",
+      "mvp": "Churchill",
+      "lvp": "Chamberlain",
+      "cage": "Hitler",
+      "quote": "Fuck Yall",
+      "attendees": [
+        "Bone",
+        "Sophie",
+        "Smooth",
+        "Bubba",
+        "Haus",
+        "Mac",
+        "Beeks",
+        "Skizza",
+        "Moshi"
+      ],
+      "responses": [
+        {
+          "category": "The Sunk Cost Award",
+          "answer": "sdgfsadfs"
+        },
+        {
+          "category": "The “I Read This in College” Callback",
+          "answer": "asdfasdf"
+        },
+        {
+          "category": "Hot Take Insurance",
+          "answer": "asdfasdf"
+        },
+        {
+          "category": "Hangxiety Rating",
+          "answer": "asdfasd"
+        },
+        {
+          "category": "Oscar Bait or Actually Good",
+          "answer": "asdfasdf"
+        },
+        {
+          "category": "Rotten Tomatoes Split",
+          "answer": "fgtttet"
+        }
+      ]
+    }
+  ],
   "meeting": {
     "date": "2026-08-01",
     "time": "12:00",
@@ -437,44 +497,9 @@
     "address": "920 Main St, Westbrook, ME 04092"
   },
   "meetingDraft": {
-    "attendees": [
-      "Bone",
-      "Sophie",
-      "Smooth",
-      "Bubba",
-      "Haus",
-      "Mac",
-      "Beeks",
-      "Skizza",
-      "Moshi"
-    ],
-    "responses": [
-      {
-        "category": "The Sunk Cost Award",
-        "answer": "sdgfsadfs"
-      },
-      {
-        "category": "The “I Read This in College” Callback",
-        "answer": "asdfasdf"
-      },
-      {
-        "category": "Hot Take Insurance",
-        "answer": "asdfasdf"
-      },
-      {
-        "category": "Hangxiety Rating",
-        "answer": "asdfasd"
-      },
-      {
-        "category": "Oscar Bait or Actually Good",
-        "answer": "asdfasdf"
-      },
-      {
-        "category": "Rotten Tomatoes Split",
-        "answer": "fgtttet"
-      }
-    ]
+    "attendees": [],
+    "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T16:52:25.126Z"
+  "lastPublished": "2026-07-19T16:54:45.391Z"
 }
