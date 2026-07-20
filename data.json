@@ -389,9 +389,12 @@
     "address": "920 Main St, Westbrook, ME 04092"
   },
   "meetingDraft": {
-    "attendees": [],
+    "attendees": [
+      "Bone"
+    ],
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
-  "lastPublished": "2026-07-19T19:46:42.690Z"
+  "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
+  "lastPublished": "2026-07-20T17:32:06.089Z"
 }
