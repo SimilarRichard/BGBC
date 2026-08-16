@@ -382,11 +382,11 @@
   "pitches": [],
   "archive": [],
   "meeting": {
-    "date": "2026-08-02",
-    "time": "12:00",
+    "date": "2026-08-16",
+    "time": "10:00",
     "frequency": "Monthly",
-    "venue": "Mast Landing Westbrook",
-    "address": "920 Main St, Westbrook, ME 04092"
+    "venue": "Salmon Falls Country Club",
+    "address": "to Indus        +6   Show moreSalmon Falls Rd, Hollis, ME 04042"
   },
   "meetingDraft": {
     "attendees": [
@@ -396,5 +396,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-07-20T17:32:06.089Z"
+  "lastPublished": "2026-08-16T13:52:00.074Z"
 }
