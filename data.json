@@ -16,13 +16,18 @@
       "author": "Erik Larson",
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Splendid_and_the_Vile_Book_Cover.jpg",
       "pitcher": "Moshi",
-      "avg": "",
-      "mvp": "",
-      "lvp": "",
-      "cage": "",
+      "avg": "7.4",
+      "mvp": "Beaverbrook (Winston)",
+      "lvp": "Randy Churchill",
+      "cage": "Balls out for hours with FDR",
       "genre": "nonfiction",
-      "quote": "",
-      "scores": {}
+      "quote": "I've taken more out of alcohol than alcohol has taken out of me. ",
+      "scores": {
+        "Moshi": "9",
+        "Skizza": "7",
+        "Sophie": "7.5",
+        "Bone": "6"
+      }
     }
   ],
   "categories": [
@@ -390,11 +395,14 @@
   },
   "meetingDraft": {
     "attendees": [
-      "Bone"
+      "Bone",
+      "Sophie",
+      "Skizza",
+      "Moshi"
     ],
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-16T13:52:00.074Z"
+  "lastPublished": "2026-08-16T15:45:24.751Z"
 }
