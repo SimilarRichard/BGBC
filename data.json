@@ -18,11 +18,11 @@
       "cover": "https://covers.openlibrary.org/b/id/9293917-L.jpg",
       "pitcher": "Moshi",
       "avg": "7.4",
-      "mvp": "",
-      "lvp": "",
-      "cage": "",
+      "mvp": "Beaverbrook (if not WC)",
+      "lvp": "Randy Churchill",
+      "cage": "Bathtub dictations",
       "genre": "nonfiction",
-      "quote": "",
+      "quote": "I've taken more from alcohol than alcohol has taken from me.",
       "scores": {},
       "historical": false
     }
@@ -412,7 +412,7 @@
     }
   ],
   "meeting": {
-    "date": "2026-09-19",
+    "date": "2026-08-16",
     "time": "10:00",
     "frequency": "Monthly",
     "venue": "Salmon Falls Country Club",
@@ -424,5 +424,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:21:47.754Z"
+  "lastPublished": "2026-08-18T22:22:15.390Z"
 }
