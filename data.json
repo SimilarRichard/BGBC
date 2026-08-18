@@ -13,6 +13,20 @@
   ],
   "scoreboard": [
     {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": "",
+      "scores": {},
+      "historical": false
+    },
+    {
       "book": "The Splendid and the Vile",
       "author": "Erik Larson",
       "cover": "https://covers.openlibrary.org/b/id/9293917-L.jpg",
@@ -431,10 +445,10 @@
     }
   ],
   "meeting": {
-    "date": "2026-08-16",
+    "date": "2026-09-19",
     "time": "10:00",
     "frequency": "Monthly",
-    "venue": "Salmon Falls Country Club",
+    "venue": "The River Tap & Grill",
     "address": "Salmon Falls Rd, Hollis, ME 04042"
   },
   "meetingDraft": {
@@ -443,5 +457,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:29:03.059Z"
+  "lastPublished": "2026-08-18T22:29:57.886Z"
 }
