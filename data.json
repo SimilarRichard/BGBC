@@ -8,7 +8,8 @@
     "Mac",
     "Beeks",
     "Skizza",
-    "Moshi"
+    "Moshi",
+    "Perk"
   ],
   "scoreboard": [],
   "categories": [
@@ -392,5 +393,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:09:36.578Z"
+  "lastPublished": "2026-08-18T22:10:10.202Z"
 }
