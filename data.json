@@ -11,22 +11,7 @@
     "Moshi",
     "Perk"
   ],
-  "scoreboard": [
-    {
-      "book": "The Splendid and the Vile",
-      "author": "Erik Larson",
-      "cover": "https://covers.openlibrary.org/b/id/9293917-L.jpg",
-      "pitcher": "Moshi",
-      "avg": "7.4",
-      "mvp": "Beaverbrook (if not WC)",
-      "lvp": "Randy Chruchill",
-      "cage": "Bathtub meetings",
-      "genre": "nonfiction",
-      "quote": "I've taken more from alcohol than alcohol has taken from me.",
-      "scores": {},
-      "historical": true
-    }
-  ],
+  "scoreboard": [],
   "categories": [
     {
       "title": "The Rereadability Scale",
@@ -431,7 +416,7 @@
     }
   ],
   "meeting": {
-    "date": "2026-08-19",
+    "date": "2026-09-19",
     "time": "10:00",
     "frequency": "Monthly",
     "venue": "The River Tap & Grill",
@@ -443,5 +428,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:33:24.072Z"
+  "lastPublished": "2026-08-18T22:33:37.053Z"
 }
