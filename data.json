@@ -389,7 +389,28 @@
       "votes": "1"
     }
   ],
-  "archive": [],
+  "archive": [
+    {
+      "book": "The Splendid and the Vile",
+      "author": "Erik Larson",
+      "cover": "https://covers.openlibrary.org/b/id/9293917-L.jpg",
+      "genre": "nonfiction",
+      "pitcher": "Moshi",
+      "avg": "7.4",
+      "mvp": "Beaverbrook (if not WC)",
+      "lvp": "Randy Churchill",
+      "cage": "Bathtub dictations",
+      "quote": "I've taken more from alcohol than alcohol has taken from me.",
+      "attendees": [
+        "Bone",
+        "Sophie",
+        "Skizza",
+        "Moshi"
+      ],
+      "responses": [],
+      "finishers": []
+    }
+  ],
   "meeting": {
     "date": "2026-08-16",
     "time": "10:00",
@@ -398,15 +419,10 @@
     "address": "to Indus        +6   Show moreSalmon Falls Rd, Hollis, ME 04042"
   },
   "meetingDraft": {
-    "attendees": [
-      "Bone",
-      "Sophie",
-      "Skizza",
-      "Moshi"
-    ],
+    "attendees": [],
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:18:06.781Z"
+  "lastPublished": "2026-08-18T22:19:09.958Z"
 }
