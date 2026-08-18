@@ -383,15 +383,10 @@
     "address": "to Indus        +6   Show moreSalmon Falls Rd, Hollis, ME 04042"
   },
   "meetingDraft": {
-    "attendees": [
-      "Bone",
-      "Sophie",
-      "Skizza",
-      "Moshi"
-    ],
+    "attendees": [],
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:10:10.202Z"
+  "lastPublished": "2026-08-18T22:10:53.570Z"
 }
