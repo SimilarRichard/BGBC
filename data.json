@@ -23,12 +23,7 @@
       "cage": "Bathtub dictations",
       "genre": "nonfiction",
       "quote": "I've taken more from alcohol than alcohol has taken from me.",
-      "scores": {
-        "Sophie": "7",
-        "Skizza": "8.5",
-        "Moshi": "9",
-        "Bone": "5"
-      },
+      "scores": {},
       "historical": false
     }
   ],
@@ -396,7 +391,7 @@
   ],
   "archive": [],
   "meeting": {
-    "date": "2026-09-19",
+    "date": "2026-08-16",
     "time": "10:00",
     "frequency": "Monthly",
     "venue": "Salmon Falls Country Club",
@@ -413,5 +408,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:17:18.400Z"
+  "lastPublished": "2026-08-18T22:18:06.781Z"
 }
