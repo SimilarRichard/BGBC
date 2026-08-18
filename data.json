@@ -431,11 +431,11 @@
     }
   ],
   "meeting": {
-    "date": "2026-09-19",
+    "date": "2026-08-19",
     "time": "10:00",
     "frequency": "Monthly",
     "venue": "The River Tap & Grill",
-    "address": "Salmon Falls Rd, Hollis, ME 04042"
+    "address": "52 Golf Course Lane Hollis, ME 04042"
   },
   "meetingDraft": {
     "attendees": [],
@@ -443,5 +443,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:31:26.429Z"
+  "lastPublished": "2026-08-18T22:33:24.072Z"
 }
