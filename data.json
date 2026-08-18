@@ -11,7 +11,36 @@
     "Moshi",
     "Perk"
   ],
-  "scoreboard": [],
+  "scoreboard": [
+    {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": "",
+      "scores": {},
+      "historical": false
+    },
+    {
+      "book": "The Splendid and the Vile",
+      "author": "Erik Larson",
+      "cover": "https://covers.openlibrary.org/b/id/9293917-L.jpg",
+      "pitcher": "Moshi",
+      "avg": "7.4",
+      "mvp": "Beaverbrook (if not WC)",
+      "lvp": "Randy Chruchill",
+      "cage": "Bathtub meetings",
+      "genre": "nonfiction",
+      "quote": "I've taken more from alcohol than alcohol has taken from me.",
+      "scores": {},
+      "historical": true
+    }
+  ],
   "categories": [
     {
       "title": "The Rereadability Scale",
@@ -394,14 +423,33 @@
       ],
       "responses": [],
       "finishers": []
+    },
+    {
+      "book": "The Splendid and the Vile",
+      "author": "Erik Larson",
+      "cover": "https://covers.openlibrary.org/b/id/9293917-L.jpg",
+      "genre": "nonfiction",
+      "pitcher": "Moshi",
+      "avg": "7.4",
+      "mvp": "Beaverbrook (if not WC)",
+      "lvp": "Randy Chruchill",
+      "cage": "Bathtub meetings",
+      "quote": "I've taken more from alcohol than alcohol has taken from me.",
+      "attendees": [
+        "Bone",
+        "Sophie",
+        "Skizza",
+        "Moshi"
+      ],
+      "responses": []
     }
   ],
   "meeting": {
-    "date": "2026-09-19",
+    "date": "2026-08-16",
     "time": "10:00",
     "frequency": "Monthly",
-    "venue": "The River Tap & Grill",
-    "address": "52 Golf Course Ln, Hollis, ME 04042"
+    "venue": "Salmon Falls Country Club",
+    "address": "Salmon Falls Rd, Hollis, ME 04042"
   },
   "meetingDraft": {
     "attendees": [],
@@ -409,5 +457,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:25:13.310Z"
+  "lastPublished": "2026-08-18T22:27:51.721Z"
 }
