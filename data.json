@@ -13,20 +13,6 @@
   ],
   "scoreboard": [
     {
-      "book": "",
-      "author": "",
-      "cover": "",
-      "pitcher": "",
-      "avg": "",
-      "mvp": "",
-      "lvp": "",
-      "cage": "",
-      "genre": "",
-      "quote": "",
-      "scores": {},
-      "historical": false
-    },
-    {
       "book": "The Splendid and the Vile",
       "author": "Erik Larson",
       "cover": "https://covers.openlibrary.org/b/id/9293917-L.jpg",
@@ -457,5 +443,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:27:51.721Z"
+  "lastPublished": "2026-08-18T22:29:03.059Z"
 }
