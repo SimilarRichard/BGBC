@@ -387,7 +387,7 @@
   "pitches": [],
   "archive": [],
   "meeting": {
-    "date": "2026-08-16",
+    "date": "2026-09-19",
     "time": "10:00",
     "frequency": "Monthly",
     "venue": "Salmon Falls Country Club",
@@ -404,5 +404,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-16T15:45:24.751Z"
+  "lastPublished": "2026-08-18T22:08:27.596Z"
 }
