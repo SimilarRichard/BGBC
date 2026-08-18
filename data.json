@@ -23,7 +23,12 @@
       "cage": "Bathtub dictations",
       "genre": "nonfiction",
       "quote": "I've taken more from alcohol than alcohol has taken from me.",
-      "scores": {},
+      "scores": {
+        "Sophie": "7",
+        "Skizza": "8.5",
+        "Moshi": "9",
+        "Bone": "5"
+      },
       "historical": false
     }
   ],
@@ -408,5 +413,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:16:28.195Z"
+  "lastPublished": "2026-08-18T22:17:18.400Z"
 }
