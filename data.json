@@ -10,26 +10,7 @@
     "Skizza",
     "Moshi"
   ],
-  "scoreboard": [
-    {
-      "book": "The Splendid and the Vile",
-      "author": "Erik Larson",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Splendid_and_the_Vile_Book_Cover.jpg",
-      "pitcher": "Moshi",
-      "avg": "7.4",
-      "mvp": "Beaverbrook (Winston)",
-      "lvp": "Randy Churchill",
-      "cage": "Balls out for hours with FDR",
-      "genre": "nonfiction",
-      "quote": "I've taken more out of alcohol than alcohol has taken out of me. ",
-      "scores": {
-        "Moshi": "9",
-        "Skizza": "7",
-        "Sophie": "7.5",
-        "Bone": "6"
-      }
-    }
-  ],
+  "scoreboard": [],
   "categories": [
     {
       "title": "The Rereadability Scale",
@@ -384,7 +365,14 @@
       ]
     }
   ],
-  "pitches": [],
+  "pitches": [
+    {
+      "title": "World War Z",
+      "author": "Max Brooks",
+      "pitcher": "Bone",
+      "votes": "1"
+    }
+  ],
   "archive": [],
   "meeting": {
     "date": "2026-09-19",
@@ -404,5 +392,5 @@
   },
   "formspreeEndpoint": "https://formspree.io/f/xvzeawrv",
   "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
-  "lastPublished": "2026-08-18T22:08:27.596Z"
+  "lastPublished": "2026-08-18T22:09:36.578Z"
 }
